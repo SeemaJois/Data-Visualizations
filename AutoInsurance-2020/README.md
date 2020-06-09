@@ -10,5 +10,5 @@ We found the data for our visualization at ValuePenguin- a cost and financial pr
 
 Suffice it to say, this approach lets you easily see an apples-to-apples comparison of auto insurance rates around the country.
 
-### Link to play around with visualization:
+### Visualization Link:
 https://public.tableau.com/profile/seemanthini.jois#!/vizhome/AutoInsuranceRates_15915760912700/AutoInsurance-FullCoverage?publish=yes
