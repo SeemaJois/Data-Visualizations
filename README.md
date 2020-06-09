@@ -7,3 +7,5 @@ The most advanced analytics outcomes are worthless if they don’t find adoption
 By applying Design Thinking and Human Centred Design methodologies, we can invent compelling solutions that help users understand the real implications of analytics insights and gives them the right information in the right context. 
 
 Inspired from: https://www.makeovermonday.co.uk/
+
+## #MakeOverMonday
