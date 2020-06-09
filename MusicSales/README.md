@@ -6,6 +6,7 @@ The record industry has seen a lot of change over the years.
 Looking back at four decades of U.S. music industry sales data is a fascinating exercise as it charts not only the rise and fall the record company profits, but seismic shifts in technology and consumer behavior as well.
 
 Source: https://www.visualcapitalist.com/music-industry-sales/
+
 Data: https://www.riaa.com/u-s-sales-database/
 
 ## Visualization Link: 
